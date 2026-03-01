@@ -42,7 +42,7 @@ AI Assets & Supply Chain	Tier 1 – Partial	Tier 4 – Adaptive	75%	High
 AI Security Controls	Tier 2 – Risk-Informed	Tier 4 – Adaptive	50%	Medium
 Adversarial Detection	Tier 1 – Partial	Tier 4 – Adaptive	75%	High
 Incident Response & Recovery	Tier 1 – Partial	Tier 4 – Adaptive	75%	Critical
-Summary: Critical gaps exist in governance, monitoring, and recovery. AI systems are vulnerable to prompt injection, data poisoning, and supply chain attacks.
+Summary: Critical gaps exist in governance, monitoring, and recovery. AI systems are vulnerable to prompt injection, data poisoning, and supply chain attacks
 
 Recommendations & Roadmap
 Phase 1 – Foundation
