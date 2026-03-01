@@ -36,13 +36,23 @@ Organization Profile
 * Resilience testing (chaos engineering, red-team simulations)
 
 Key Findings 
-Area	Current Maturity	Target Maturity	Gap	Risk Level
-AI Governance	Tier 1 – Partial	Tier 4 – Adaptive	75%	High
-AI Assets & Supply Chain	Tier 1 – Partial	Tier 4 – Adaptive	75%	High
-AI Security Controls	Tier 2 – Risk-Informed	Tier 4 – Adaptive	50%	Medium
-Adversarial Detection	Tier 1 – Partial	Tier 4 – Adaptive	75%	High
-Incident Response & Recovery	Tier 1 – Partial	Tier 4 – Adaptive	75%	Critical
-Summary: Critical gaps exist in governance, monitoring, and recovery. AI systems are vulnerable to prompt injection, data poisoning, and supply chain attacks
+
+## 🔍 Key Findings – AI Security & Governance Assessment
+
+| Area | Current Maturity | Target Maturity | Gap | Risk Level |
+|------|-----------------|----------------|-----|------------|
+| AI Governance | Tier 1 – Partial | Tier 4 – Adaptive | 75% | ⚠️ High |
+| AI Assets & Supply Chain | Tier 1 – Partial | Tier 4 – Adaptive | 75% | ⚠️ High |
+| AI Security Controls | Tier 2 – Risk-Informed | Tier 4 – Adaptive | 50% | ⚡ Medium |
+| Adversarial Detection | Tier 1 – Partial | Tier 4 – Adaptive | 75% | ⚠️ High |
+| Incident Response & Recovery | Tier 1 – Partial | Tier 4 – Adaptive | 75% | 🔴 Critical |
+
+Summary:
+Critical gaps exist in governance, monitoring, and recovery.  
+AI systems are vulnerable to prompt injection, data poisoning, and supply chain attacks.  
+
+> Visual cues: ⚠️ = High Risk | ⚡ = Medium Risk | 🔴 = Critical Risk
+
 
 Recommendations & Roadmap
 Phase 1 – Foundation
